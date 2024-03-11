@@ -1,13 +1,11 @@
 {
   "enabled": true,
-  "idle_time": 0,
+  "idle_time": 600,
   "uncap_menu_frame_rate": false,
   "states": {
     "hovered": {
       "frame_rate_target": 60,
-      "volume_multipliers": {
-        "master": 1.0
-      },
+      "volume_multipliers": {},
       "graphics_state": "default",
       "show_toasts": true,
       "run_garbage_collector": false
@@ -32,9 +30,7 @@
     },
     "abandoned": {
       "frame_rate_target": 10,
-      "volume_multipliers": {
-        "master": 1.0
-      },
+      "volume_multipliers": {},
       "graphics_state": "default",
       "show_toasts": false,
       "run_garbage_collector": false

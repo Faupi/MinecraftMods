@@ -1,6 +1,11 @@
 {
   "allowMovement": {
-    "net.minecraft.class_434": true
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_7744": false,
+    "slexom.animal_feeding_trough.platform.common.screen.FeedingTroughScreen": true
   },
-  "hideBackground": {}
+  "hideBackground": {
+    "net.minecraft.class_7744": true,
+    "slexom.animal_feeding_trough.platform.common.screen.FeedingTroughScreen": true
+  }
 }
