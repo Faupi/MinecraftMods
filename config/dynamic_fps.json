@@ -4,7 +4,7 @@
   "uncap_menu_frame_rate": false,
   "states": {
     "hovered": {
-      "frame_rate_target": 60,
+      "frame_rate_target": 15,
       "volume_multipliers": {},
       "graphics_state": "default",
       "show_toasts": true,

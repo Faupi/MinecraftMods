@@ -24,6 +24,7 @@ mode = "fancy"
 			[light_sources.settings.entities.minecraft]
 				axolotl = true
 				bee = true
+				egg = true
 				arrow = true
 				cow = true
 				pig = true
@@ -34,6 +35,7 @@ mode = "fancy"
 				frog = true
 				rabbit = true
 				firework_rocket = true
+				armor_stand = true
 				drowned = true
 				experience_orb = true
 				dolphin = true
@@ -45,6 +47,8 @@ mode = "fancy"
 				goat = true
 				item_frame = true
 				horse = true
+				phantom = true
+				minecart = true
 				llama_spit = true
 				mooshroom = true
 				glow_squid = true
@@ -72,9 +76,13 @@ mode = "fancy"
 				zombie_villager = true
 				tnt_minecart = true
 				elder_guardian = true
+				boat = true
 				polar_bear = true
 				cave_spider = true
 				witch = true
 				cod = true
 				spider = true
+
+			[light_sources.settings.entities.mcwfurnitures]
+				chair_entity = true
 

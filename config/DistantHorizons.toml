@@ -352,7 +352,7 @@ _version = 2
 				radius = "4.0"
 				# Enable Screen Space Ambient Occlusion
 				# 
-				enabled = true
+				enabled = false
 
 			[client.advanced.graphics.advancedGraphics]
 				# What the value should vanilla Minecraft's texture LodBias be? 
@@ -368,7 +368,7 @@ _version = 2
 				# 
 				# Increasing the vanilla render distance increases the effectiveness of this setting.
 				# 
-				overdrawPrevention = "0.4"
+				overdrawPrevention = "0.0"
 				# Buggy experimental option that will attempt to match up 
 				# Distant Horizons' and Minecraft's near/far clip planes, 
 				# reducing overdraw. 
@@ -481,7 +481,7 @@ _version = 2
 				# DISABLED: LODs will be opaque. 
 				# 
 				# 
-				transparency = "COMPLETE"
+				transparency = "FAKE"
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 
 				# Higher options will make the world more accurate, butwill increase memory and GPU usage. 
@@ -508,7 +508,7 @@ _version = 2
 				# 
 				# Disabling fog will improve GPU performance.
 				# 
-				drawMode = "FOG_ENABLED"
+				drawMode = "USE_OPTIFINE_SETTING"
 				# At what distance should Fog be drawn on the LODs?
 				# 
 				distance = "FAR"
