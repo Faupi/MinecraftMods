@@ -1,0 +1,10 @@
+    {
+      "version": 1,
+      "overrides": {
+        "simple_quiver": {
+          "-depends": {
+            "minecraft": "IGNORED"
+          }
+        }
+      }
+    }

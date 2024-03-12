@@ -3,10 +3,16 @@
     "net.minecraft.class_434": true,
     "net.minecraft.class_7744": false,
     "slexom.animal_feeding_trough.platform.common.screen.FeedingTroughScreen": true,
-    "net.minecraft.class_433": true
+    "net.minecraft.class_433": true,
+    "me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "team.creative.creativecore.client.ModMenuImpl$1": true,
+    "loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true,
+    "net.minecraft.class_5522": true
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
-    "slexom.animal_feeding_trough.platform.common.screen.FeedingTroughScreen": true
+    "slexom.animal_feeding_trough.platform.common.screen.FeedingTroughScreen": true,
+    "net.minecraft.class_5522": true
   }
 }
