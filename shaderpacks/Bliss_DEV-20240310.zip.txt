@@ -1,7 +1,8 @@
-#Wed Mar 13 15:55:04 CET 2024
+#Wed Mar 13 20:12:58 CET 2024
 shadowDistance=160.0
 Rain_coverage=1.0
 RAYMARCH_CLOUDS_WITH_FOG=true
+BorderFog=false
 Glass_Tint=true
 CloudLayer0_coverage=0.6
 MOB_SSS=true
@@ -18,4 +19,4 @@ BIOME_TINT_WATER=true
 MISC_BLOCK_SSS=true
 BLOOM_STRENGTH=0.25
 BLOOMY_PARTICLES=true
-Dirt_Amount=0.04
+Dirt_Amount=0.08

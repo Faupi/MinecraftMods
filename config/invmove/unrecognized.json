@@ -22,7 +22,20 @@
     "traben.entity_texture_features.config.screens.skin.ETFConfigScreenSkinToolOutcome": true,
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
     "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
-    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
+    "fi.dy.masa.litematica.gui.GuiConfigs": true,
+    "fi.dy.masa.litematica.gui.GuiRenderLayer": true,
+    "fi.dy.masa.litematica.gui.GuiAreaSelectionManager": true,
+    "fi.dy.masa.litematica.gui.GuiAreaSelectionEditorNormal": true,
+    "fi.dy.masa.litematica.gui.GuiMaterialList": true,
+    "fi.dy.masa.litematica.gui.GuiMainMenu": true,
+    "fi.dy.masa.litematica.gui.GuiAreaSelectionEditorSimple": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicSave": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicLoad": true,
+    "fi.dy.masa.litematica.gui.GuiTaskManager": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicManager": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicLoadedList": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
