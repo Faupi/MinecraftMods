@@ -35,7 +35,8 @@
     "fi.dy.masa.litematica.gui.GuiTaskManager": true,
     "fi.dy.masa.litematica.gui.GuiSchematicManager": true,
     "fi.dy.masa.litematica.gui.GuiSchematicLoadedList": true,
-    "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true
+    "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
