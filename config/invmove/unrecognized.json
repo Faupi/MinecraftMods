@@ -14,7 +14,15 @@
     "net.minecraft.class_5375": true,
     "net.minecraft.class_4895": true,
     "net.minecraft.class_407": true,
-    "com.supermartijn642.core.gui.WidgetContainerScreen": true
+    "com.supermartijn642.core.gui.WidgetContainerScreen": true,
+    "traben.entity_texture_features.config.screens.ETFConfigScreenMain": true,
+    "traben.entity_texture_features.config.screens.skin.ETFConfigScreenSkinSettings": true,
+    "traben.entity_texture_features.config.screens.skin.ETFConfigScreenSkinTool": true,
+    "traben.entity_texture_features.config.screens.skin.ETFConfigScreenSkinToolPixelSelection": true,
+    "traben.entity_texture_features.config.screens.skin.ETFConfigScreenSkinToolOutcome": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
@@ -22,6 +30,9 @@
     "net.minecraft.class_5522": true,
     "net.kikoz.mcwfurnitures.storage.FurnitureScreen": true,
     "net.minecraft.class_4895": true,
-    "com.supermartijn642.core.gui.WidgetContainerScreen": true
+    "com.supermartijn642.core.gui.WidgetContainerScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true
   }
 }
