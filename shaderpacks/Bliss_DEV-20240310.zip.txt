@@ -1,0 +1,21 @@
+#Wed Mar 13 12:46:59 CET 2024
+shadowDistance=160.0
+Rain_coverage=1.0
+RAYMARCH_CLOUDS_WITH_FOG=true
+Glass_Tint=true
+CloudLayer0_coverage=0.6
+MOB_SSS=true
+CloudLayer1_coverage=0.6
+Specular_Reflections=true
+CLOUDS_QUALITY=0.1
+Screen_Space_Reflections=true
+Sky_reflection=true
+Exposure_Speed=2.0
+Porosity=true
+entityShadowDistanceMul=0.90
+CLOUD_SHADOW_STRENGTH=0.9
+BIOME_TINT_WATER=true
+MISC_BLOCK_SSS=true
+BLOOM_STRENGTH=1.0
+BLOOMY_PARTICLES=true
+Dirt_Amount=0.04
