@@ -10,12 +10,15 @@
     "loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true,
     "net.minecraft.class_5522": true,
     "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
-    "net.kikoz.mcwfurnitures.storage.FurnitureScreen": true
+    "net.kikoz.mcwfurnitures.storage.FurnitureScreen": true,
+    "net.minecraft.class_5375": true,
+    "net.minecraft.class_4895": true
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
     "slexom.animal_feeding_trough.platform.common.screen.FeedingTroughScreen": true,
     "net.minecraft.class_5522": true,
-    "net.kikoz.mcwfurnitures.storage.FurnitureScreen": true
+    "net.kikoz.mcwfurnitures.storage.FurnitureScreen": true,
+    "net.minecraft.class_4895": true
   }
 }

@@ -33,6 +33,7 @@ mode = "fancy"
 				bat = true
 				husk = true
 				frog = true
+				camel = true
 				rabbit = true
 				firework_rocket = true
 				armor_stand = true
@@ -45,6 +46,7 @@ mode = "fancy"
 				salmon = true
 				wandering_trader = true
 				goat = true
+				ocelot = true
 				item_frame = true
 				horse = true
 				phantom = true
@@ -54,6 +56,7 @@ mode = "fancy"
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
+				parrot = true
 				creeper = true
 				enderman = true
 				chicken = true
@@ -81,7 +84,11 @@ mode = "fancy"
 				cave_spider = true
 				witch = true
 				cod = true
+				snow_golem = true
 				spider = true
+
+			[light_sources.settings.entities.fallingtrees]
+				tree = true
 
 			[light_sources.settings.entities.mcwfurnitures]
 				chair_entity = true
