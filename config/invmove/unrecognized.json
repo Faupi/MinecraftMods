@@ -12,7 +12,8 @@
     "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
     "net.kikoz.mcwfurnitures.storage.FurnitureScreen": true,
     "net.minecraft.class_5375": true,
-    "net.minecraft.class_4895": true
+    "net.minecraft.class_4895": true,
+    "net.minecraft.class_407": true
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
