@@ -36,7 +36,10 @@
     "fi.dy.masa.litematica.gui.GuiSchematicManager": true,
     "fi.dy.masa.litematica.gui.GuiSchematicLoadedList": true,
     "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true,
-    "com.terraformersmc.modmenu.gui.ModsScreen": true
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "dev.tr7zw.itemswapper.overlay.SwitchItemOverlay": true,
+    "dev.tr7zw.itemswapper.overlay.ItemListOverlay": true,
+    "dev.tr7zw.notenoughanimations.config.ConfigScreenProvider$1": true
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
