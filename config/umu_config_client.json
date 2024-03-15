@@ -1,7 +1,0 @@
-{
-  "test_boolean": false,
-  "test_integer": 3,
-  "additional": {
-    "test_enum": "GOLD"
-  }
-}
