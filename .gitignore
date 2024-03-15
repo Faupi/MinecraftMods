@@ -21,3 +21,6 @@
 
 /config/roughlyenoughitems/*
 !/config/roughlyenoughitems/config.json5
+
+/config/journeymap-server.json
+/mods/journeymap-*.jar

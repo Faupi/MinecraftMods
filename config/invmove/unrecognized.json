@@ -41,7 +41,9 @@
     "dev.tr7zw.itemswapper.overlay.ItemListOverlay": true,
     "dev.tr7zw.notenoughanimations.config.ConfigScreenProvider$1": true,
     "dev.isxander.yacl3.gui.YACLScreen": true,
-    "com.natamus.collective_common_fabric.config.DuskConfig$DuskConfigScreen": true
+    "com.natamus.collective_common_fabric.config.DuskConfig$DuskConfigScreen": true,
+    "journeymap.client.ui.fullscreen.Fullscreen": false,
+    "journeymap.client.ui.component.ScrollPaneScreen": false
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
