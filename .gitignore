@@ -1,23 +1,23 @@
 # Ignore everything by default
-*
+/*
 
 # Keep only actual shared client configurations
-!mods
-!config
-!datapacks
-!resourcepacks
-!shaderpacks
+!/mods
+!/config
+!/datapacks
+!/resourcepacks
+!/shaderpacks
 
 # Rendering (mostly cache)
-config/iris.properties
-config/indium-renderer.properties
-config/fabric/indigo-renderer.properties
-config/lithium.properties
+/config/iris.properties
+/config/indium-renderer.properties
+/config/fabric/indigo-renderer.properties
+/config/lithium.properties
 
 # Specific miscellaneous rules
-config/litematica
-config/sound_physics_remastered/occlusion.properties
-config/sound_physics_remastered/reflectivity.properties
+/config/litematica
+/config/sound_physics_remastered/occlusion.properties
+/config/sound_physics_remastered/reflectivity.properties
 
-config/roughlyenoughitems/*
-!config/roughlyenoughitems/config.json5
+/config/roughlyenoughitems/*
+!/config/roughlyenoughitems/config.json5
