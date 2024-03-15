@@ -182,7 +182,8 @@
       "create_enchantment_industry:*",
       "graveyard:*",
       "immersivepetroleum:*",
-      "tardis:interior_door"
+      "tardis:interior_door",
+      "universal_graves:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
