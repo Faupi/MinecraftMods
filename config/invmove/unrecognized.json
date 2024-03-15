@@ -43,7 +43,8 @@
     "dev.isxander.yacl3.gui.YACLScreen": true,
     "com.natamus.collective_common_fabric.config.DuskConfig$DuskConfigScreen": true,
     "journeymap.client.ui.fullscreen.Fullscreen": false,
-    "journeymap.client.ui.component.ScrollPaneScreen": false
+    "journeymap.client.ui.component.ScrollPaneScreen": false,
+    "io.github.zemelua.umu_backpack.client.gui.BackpackScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
@@ -55,6 +56,7 @@
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
     "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
     "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
-    "net.blay09.mods.waystones.client.gui.screen.WaystoneScreen": true
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneScreen": true,
+    "io.github.zemelua.umu_backpack.client.gui.BackpackScreen": true
   }
 }
