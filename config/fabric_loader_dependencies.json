@@ -1,10 +1,10 @@
-    {
-      "version": 1,
-      "overrides": {
-        "bundle_jumble": {
-          "-depends": {
-            "minecraft": "IGNORED"
-          }
-        }
+{
+  "version": 1,
+  "overrides": {
+    "bundle_jumble": {
+      "-depends": {
+        "minecraft": "IGNORED"
       }
     }
+  }
+}
