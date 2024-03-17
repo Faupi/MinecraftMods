@@ -44,7 +44,12 @@
     "com.natamus.collective_common_fabric.config.DuskConfig$DuskConfigScreen": true,
     "journeymap.client.ui.fullscreen.Fullscreen": false,
     "journeymap.client.ui.component.ScrollPaneScreen": false,
-    "io.github.zemelua.umu_backpack.client.gui.BackpackScreen": true
+    "io.github.zemelua.umu_backpack.client.gui.BackpackScreen": true,
+    "journeymap.client.ui.waypoint.WaypointManager": false,
+    "fi.dy.masa.malilib.MaLiLibConfigGui": false,
+    "journeymap.client.ui.dialog.OptionsManager": false,
+    "journeymap.client.ui.dialog.MultiplayerOptionsManager": false,
+    "journeymap.client.ui.dialog.ServerOptionsManager": false
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,
