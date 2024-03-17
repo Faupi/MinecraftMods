@@ -24,3 +24,6 @@
 
 /config/journeymap-server.json
 /mods/journeymap-*.jar
+
+# Remove paid
+/shaderpacks/ComplementaryReimagined_r*_dev*.*

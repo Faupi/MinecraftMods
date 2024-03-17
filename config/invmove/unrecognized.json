@@ -49,7 +49,8 @@
     "fi.dy.masa.malilib.MaLiLibConfigGui": false,
     "journeymap.client.ui.dialog.OptionsManager": false,
     "journeymap.client.ui.dialog.MultiplayerOptionsManager": false,
-    "journeymap.client.ui.dialog.ServerOptionsManager": false
+    "journeymap.client.ui.dialog.ServerOptionsManager": false,
+    "net.minecraft.class_410": true
   },
   "hideBackground": {
     "net.minecraft.class_7744": true,

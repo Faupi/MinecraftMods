@@ -368,7 +368,7 @@ _version = 2
 				# 
 				# Increasing the vanilla render distance increases the effectiveness of this setting.
 				# 
-				overdrawPrevention = "0.4"
+				overdrawPrevention = "0.05"
 				# Buggy experimental option that will attempt to match up 
 				# Distant Horizons' and Minecraft's near/far clip planes, 
 				# reducing overdraw. 
@@ -415,7 +415,7 @@ _version = 2
 				# NONE: All LOD sides will be rendered with the same brightness. 
 				# 
 				# 
-				lodShading = "MINECRAFT"
+				lodShading = "OLD_LIGHTING"
 				# How saturated LOD colors are. 
 				# 
 				# 0 = black and white 
@@ -462,7 +462,7 @@ _version = 2
 				maxHorizontalResolution = "BLOCK"
 				# The radius of the mod's render distance. (measured in chunks)
 				# 
-				lodChunkRenderDistanceRadius = 128
+				lodChunkRenderDistanceRadius = 64
 				# Should the blocks underneath avoided blocks gain the color of the avoided block? 
 				# 
 				# True: a red flower will tint the grass below it red. 
@@ -676,7 +676,7 @@ _version = 2
 			#  Note: when on a server, distant generation isn't supported 
 			#  and will always be disabled.
 			# 
-			enableDistantGeneration = false
+			enableDistantGeneration = true
 
 		[client.advanced.multiplayer]
 			# AKA: Multiverse support. 
