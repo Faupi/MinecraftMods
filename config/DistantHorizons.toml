@@ -396,7 +396,7 @@ _version = 2
 				#  with skylight value of 0 in dimensions that 
 				#  does not have a ceiling.
 				# 
-				enableCaveCulling = true
+				enableCaveCulling = false
 				# Identical to the other frustum culling option
 				# only used when a shader mod is present using the DH API
 				# and the shadow pass is being rendered.
@@ -415,7 +415,7 @@ _version = 2
 				# NONE: All LOD sides will be rendered with the same brightness. 
 				# 
 				# 
-				lodShading = "OLD_LIGHTING"
+				lodShading = "MINECRAFT"
 				# How saturated LOD colors are. 
 				# 
 				# 0 = black and white 
