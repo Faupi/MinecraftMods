@@ -1,12 +1,18 @@
-# Ignore everything by default
-/*
+# Ignore irrelevant root entries
+/*.*
 
-# Keep only actual shared client configurations
-!/mods
-!/config
-!/datapacks
-!/resourcepacks
-!/shaderpacks
+/crash-reports
+/data
+/downloads
+/logs
+/saves
+/screenshots
+
+/journeymap
+/Distant_Horizons_server_data
+/ModTranslations
+/modflared
+/polymer
 
 # Rendering (mostly cache)
 /config/iris.properties
@@ -26,4 +32,4 @@
 /mods/journeymap-*.jar
 
 # Remove paid
-/shaderpacks/ComplementaryReimagined_r*_dev*.*
+/shaderpacks/ComplementaryReimagined*dev*.*
