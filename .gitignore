@@ -13,6 +13,7 @@
 /ModTranslations
 /modflared
 /polymer
+/schematics
 
 # Rendering (mostly cache)
 /config/iris.properties
