@@ -9,11 +9,11 @@
 /screenshots
 
 /journeymap
-/Distant_Horizons_server_data
-/ModTranslations
 /modflared
 /polymer
 /schematics
+/ModTranslations
+/Distant_Horizons_server_data
 
 # Rendering (mostly cache)
 /config/iris.properties
@@ -32,6 +32,10 @@
 /config/journeymap-server.json
 /mods/journeymap*.jar
 /mods/journeymap*.jar.disabled
+# ->
+/XaeroWorldMap
+/config/xaero*
+/mods/XaerosWorldMap*.jar
 
 # Specific miscellaneous rules
 /config/litematica
