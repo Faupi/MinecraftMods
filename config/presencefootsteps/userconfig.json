@@ -1,6 +1,6 @@
 {
   "volume": 70,
-  "clientPlayerVolume": 100,
+  "clientPlayerVolume": 80,
   "otherPlayerVolume": 100,
   "hostileEntitiesVolume": 100,
   "passiveEntitiesVolume": 100,

@@ -21,16 +21,23 @@
 /config/fabric/indigo-renderer.properties
 /config/lithium.properties
 
+# Remove paid
+/shaderpacks/ComplementaryReimagined*dev*.*
+
+# Replacements
+/mods/Zoomify-*.jar
+/mods/Zoomify-*.jar.disabled
+/mods/zoomglass-*.jar
+
+/config/journeymap-server.json
+/mods/journeymap*.jar
+/mods/journeymap*.jar.disabled
+
 # Specific miscellaneous rules
 /config/litematica
 /config/sound_physics_remastered/occlusion.properties
 /config/sound_physics_remastered/reflectivity.properties
+/config/sound_physics_remastered/allowed_sounds.properties
 
 /config/roughlyenoughitems/*
 !/config/roughlyenoughitems/config.json5
-
-/config/journeymap-server.json
-/mods/journeymap-*.jar
-
-# Remove paid
-/shaderpacks/ComplementaryReimagined*dev*.*
