@@ -45,6 +45,10 @@
 		"active": true,
 		"onChange": true
 	},
+	"experienceBar": {
+		"active": true,
+		"onChange": true
+	},
 	"mountJumpBar": {
 		"active": true,
 		"onChange": true
