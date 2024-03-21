@@ -183,7 +183,8 @@
       "graveyard:*",
       "immersivepetroleum:*",
       "tardis:interior_door",
-      "universal_graves:*"
+      "universal_graves:*",
+      "travelersbackpack:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
