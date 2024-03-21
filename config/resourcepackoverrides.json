@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "file/Eating-Animations_BASE.zip",
+    "presencefootsteps:default_sound_pack",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "itemswapper:default",
+    "file/DiscoveryAudio.zip",
+    "file/Xalis-Enhanced-Vanilla_v1.11.1.zip",
+    "file/Reimagined_v1.44.zip",
+    "file/Reimagined-Fixes.zip",
+    "file/Fresh-Animations_v1.9.zip",
+    "file/Reimagined_FA-PATCH_v1.8.zip",
+    "file/Better-Leaves_7.2.zip",
+    "file/Snowiest-Snow.zip",
+    "file/Xalis-Enchanted-Books_v0.11.zip",
+    "file/Enchant-Icons_v1.3.zip",
+    "file/Armor-Trim-Consistency.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "1": [
+      "vanilla",
+      "fabric",
+      "file/Eating-Animations_BASE.zip",
+      "presencefootsteps:default_sound_pack",
+      "continuity:default",
+      "continuity:glass_pane_culling_fix",
+      "file/DiscoveryAudio.zip"
+    ],
+    "$$1": {
+      "hidden": true,
+      "required": true
+    },
+    "2": [
+      "$polymer-resources",
+      "minecraft:supporteatinganimation"
+    ],
+    "$$2": {
+      "hidden": true
+    }
+  }
+}
