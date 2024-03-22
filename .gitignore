@@ -20,6 +20,7 @@
 /config/indium-renderer.properties
 /config/fabric/indigo-renderer.properties
 /config/lithium.properties
+/config/sodium-options.json
 
 # Remove paid
 /shaderpacks/ComplementaryReimagined*dev*.*

@@ -15,11 +15,11 @@
     "file/Reimagined-Fixes.zip",
     "file/Fresh-Animations_v1.9.zip",
     "file/Reimagined_FA-PATCH_v1.8.zip",
-    "file/Better-Leaves_7.2.zip",
-    "file/Snowiest-Snow.zip",
     "file/Xalis-Enchanted-Books_v0.11.zip",
     "file/Enchant-Icons_v1.3.zip",
-    "file/Armor-Trim-Consistency.zip"
+    "file/Armor-Trim-Consistency.zip",
+    "file/Snowiest-Snow.zip",
+    "file/Fancy-Fast-Bushy-Leaves.zip"
   ],
   "default_overrides": {
     "force_compatible": true
