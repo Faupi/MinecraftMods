@@ -1,0 +1,32 @@
+version = 1
+enableSodiumMenu = true
+cloudCulling = true
+signTextCulling = true
+rainCulling = true
+useBlockStateCulling = true
+useCustomItemFrameRenderer = true
+itemFrameMapCulling = true
+useItemFrameLOD = true
+itemFrameLODRange = 16
+useItemFrame3FaceCulling = true
+itemFrame3FaceCullingRange = 2.0
+leavesCullingMode = "DEPTH"
+leavesCullingAmount = 1
+includeMangroveRoots = false
+powderSnowCulling = true
+endGatewayCulling = false
+beaconBeamCulling = true
+entityModelCulling = false
+useOnModdedBlocksByDefault = true
+
+[modCompatibility]
+mcwfences = true
+mcwfurnitures = true
+travelersbackpack = true
+waystones = true
+easymagic = true
+universal_graves = true
+easyanvils = true
+rechiseled = true
+minecraft = true
+animal_feeding_trough = true
