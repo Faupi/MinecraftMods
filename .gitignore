@@ -22,9 +22,6 @@
 /config/lithium.properties
 /config/sodium-options.json
 
-# Remove paid
-/shaderpacks/ComplementaryReimagined*dev*.*
-
 # Replacements
 /mods/Zoomify-*.jar
 /mods/Zoomify-*.jar.disabled
@@ -43,3 +40,5 @@
 /config/sound_physics_remastered/occlusion.properties
 /config/sound_physics_remastered/reflectivity.properties
 /config/sound_physics_remastered/allowed_sounds.properties
+config/time-and-wind/system-time-data-global.json
+config/time-and-wind/system-time-data.json
