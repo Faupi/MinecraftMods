@@ -40,5 +40,4 @@
 /config/sound_physics_remastered/occlusion.properties
 /config/sound_physics_remastered/reflectivity.properties
 /config/sound_physics_remastered/allowed_sounds.properties
-config/time-and-wind/system-time-data-global.json
-config/time-and-wind/system-time-data.json
+/config/kiwi*.yaml
