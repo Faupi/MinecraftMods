@@ -43,3 +43,5 @@
 /config/kiwi-common.yaml
 /config/plasmovoice
 /config/panorama_screens/settings.json
+/config/lambdynlights.toml
+/config/libgui.json5
