@@ -11,7 +11,7 @@
 	"shovelWeaknessAfterParry": 0,
 	"shovelWeaknessAfterParryAmplifier": 1,
 	"shovelDisarmAfterParry": 28,
-	"cooldownAfterInterruptingShovelBlockAction": 30,
+	"cooldownAfterInterruptingShovelBlockAction": 0,
 	"cooldownAfterShovelParryAction": 20,
-	"shouldStopUsingShovelAfterBlockOrParry": true
+	"shouldStopUsingShovelAfterBlockOrParry": false
 }

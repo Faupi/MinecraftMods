@@ -11,7 +11,7 @@
 	"pickaxeWeaknessAfterParry": 0,
 	"pickaxeWeaknessAfterParryAmplifier": 1,
 	"pickaxeDisarmAfterParry": 20,
-	"cooldownAfterInterruptingPickaxeBlockAction": 35,
+	"cooldownAfterInterruptingPickaxeBlockAction": 0,
 	"cooldownAfterPickaxeParryAction": 28,
-	"shouldStopUsingPickaxeAfterBlockOrParry": true
+	"shouldStopUsingPickaxeAfterBlockOrParry": false
 }

@@ -11,7 +11,7 @@
 	"hoeWeaknessAfterParry": 0,
 	"hoeWeaknessAfterParryAmplifier": 1,
 	"hoeDisarmAfterParry": 25,
-	"cooldownAfterInterruptingHoeBlockAction": 8,
+	"cooldownAfterInterruptingHoeBlockAction": 0,
 	"cooldownAfterHoeParryAction": 2,
-	"shouldStopUsingHoeAfterBlockOrParry": true
+	"shouldStopUsingHoeAfterBlockOrParry": false
 }
