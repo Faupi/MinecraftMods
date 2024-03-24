@@ -1,0 +1,17 @@
+{
+	"enableBlockingWithAxe": true,
+	"axeParryTicks": 4,
+	// % of damage TAKEN (not reduced) after blocking melee attack: the higher this value, the more damage player takes when blocking
+	"axeBlockMeleeDamageTaken": 43,
+	// % of damage TAKEN (not reduced) after blocking projectile: the higher this value, the more damage player takes when blocking
+	"axeBlockArrowDamageTaken": 85,
+	"axeParryKnockbackStrength": 7.0,
+	"axeSlownessAfterParry": 100,
+	"axeSlownessAfterParryAmplifier": 1,
+	"axeWeaknessAfterParry": 0,
+	"axeWeaknessAfterParryAmplifier": 1,
+	"axeDisarmAfterParry": 45,
+	"cooldownAfterInterruptingAxeBlockAction": 24,
+	"cooldownAfterAxeParryAction": 15,
+	"shouldStopUsingAxeAfterBlockOrParry": true
+}

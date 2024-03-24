@@ -1,0 +1,17 @@
+{
+	"enableBlockingWithSword": true,
+	"swordParryTicks": 4,
+	// % of damage TAKEN (not reduced) after blocking melee attack: the higher this value, the more damage player takes when blocking
+	"swordBlockMeleeDamageTaken": 50,
+	// % of damage TAKEN (not reduced) after blocking projectile: the higher this value, the more damage player takes when blocking
+	"swordBlockArrowDamageTaken": 90,
+	"swordParryKnockbackStrength": 6.0,
+	"swordSlownessAfterParry": 100,
+	"swordSlownessAfterParryAmplifier": 1,
+	"swordWeaknessAfterParry": 0,
+	"swordWeaknessAfterParryAmplifier": 1,
+	"swordDisarmAfterParry": 45,
+	"cooldownAfterInterruptingSwordBlockAction": 2,
+	"cooldownAfterSwordParryAction": 12,
+	"shouldStopUsingSwordAfterBlockOrParry": true
+}

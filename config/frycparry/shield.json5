@@ -1,0 +1,16 @@
+{
+	"shieldParryTicks": 4,
+	// % of damage TAKEN (not reduced) after blocking melee attack: the higher this value, the more damage player takes when blocking
+	"shieldBlockMeleeDamageTaken": 0,
+	// % of damage TAKEN (not reduced) after blocking projectile: the higher this value, the more damage player takes when blocking
+	"shieldBlockArrowDamageTaken": 0,
+	"shieldParryKnockbackStrength": 9.0,
+	"shieldSlownessAfterParry": 100,
+	"shieldSlownessAfterParryAmplifier": 1,
+	"shieldWeaknessAfterParry": 0,
+	"shieldWeaknessAfterParryAmplifier": 1,
+	"shieldDisarmAfterParry": 45,
+	"cooldownAfterInterruptingShieldBlockAction": 2,
+	"cooldownAfterShieldParryAction": 16,
+	"shouldStopUsingShieldAfterBlockOrParry": false
+}

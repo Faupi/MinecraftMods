@@ -1,0 +1,10 @@
+{
+	// For modded items that are not swords, shovels, axes (etc), but are tools in code (ToolItem)
+	"enableBlockingWithOtherTools": false,
+	// When true, axe attack will set cooldown whether it was parry or not
+	"disableBlockAfterParryingAxeAttack": false,
+	// This option doesn't do anything when blocking with axes and swords is disabled
+	"enchantmentsForShieldsCanAppearOnWeaponsInChests": false,
+	// Dual wielding settings: 0 - player can block and parry with empty offhand;  1 - player can also block and parry when dual wields weapons; 2 - player can block and parry with any item in offhand;
+	"enableBlockingWhenDualWielding": 0
+}

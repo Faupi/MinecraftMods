@@ -1,0 +1,17 @@
+{
+	"enableBlockingWithShovel": false,
+	"shovelParryTicks": 2,
+	// % of damage TAKEN (not reduced) after blocking melee attack: the higher this value, the more damage player takes when blocking
+	"shovelBlockMeleeDamageTaken": 71,
+	// % of damage TAKEN (not reduced) after blocking projectile: the higher this value, the more damage player takes when blocking
+	"shovelBlockArrowDamageTaken": 82,
+	"shovelParryKnockbackStrength": 9.0,
+	"shovelSlownessAfterParry": 110,
+	"shovelSlownessAfterParryAmplifier": 1,
+	"shovelWeaknessAfterParry": 0,
+	"shovelWeaknessAfterParryAmplifier": 1,
+	"shovelDisarmAfterParry": 28,
+	"cooldownAfterInterruptingShovelBlockAction": 30,
+	"cooldownAfterShovelParryAction": 20,
+	"shouldStopUsingShovelAfterBlockOrParry": true
+}
