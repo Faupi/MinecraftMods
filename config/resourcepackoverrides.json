@@ -5,6 +5,7 @@
     "vanilla",
     "fabric",
     "file/Eating-Animations_BASE.zip",
+    "minecraft:supporteatinganimation",
     "presencefootsteps:default_sound_pack",
     "continuity:default",
     "continuity:glass_pane_culling_fix",
