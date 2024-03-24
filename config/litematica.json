@@ -71,7 +71,7 @@
   },
   "Hotkeys": {
     "addSelectionBox": {
-      "keys": "M,A"
+      "keys": ""
     },
     "cloneSelection": {
       "keys": ""
@@ -95,16 +95,16 @@
       "keys": ""
     },
     "layerModeNext": {
-      "keys": "M,PAGE_UP"
+      "keys": ""
     },
     "layerModePrevious": {
-      "keys": "M,PAGE_DOWN"
+      "keys": ""
     },
     "layerNext": {
-      "keys": "PAGE_UP"
+      "keys": ""
     },
     "layerPrevious": {
-      "keys": "PAGE_DOWN"
+      "keys": ""
     },
     "layerSetHere": {
       "keys": ""
@@ -119,34 +119,34 @@
       "keys": ""
     },
     "openGuiAreaSettings": {
-      "keys": "KP_MULTIPLY"
+      "keys": ""
     },
     "openGuiLoadedSchematics": {
       "keys": ""
     },
     "openGuiMainMenu": {
-      "keys": "M"
+      "keys": "LEFT_BRACKET"
     },
     "openGuiMaterialList": {
-      "keys": "M,L"
+      "keys": ""
     },
     "openGuiPlacementSettings": {
-      "keys": "KP_SUBTRACT"
+      "keys": ""
     },
     "openGuiSchematicPlacements": {
-      "keys": "M,P"
+      "keys": ""
     },
     "openGuiSchematicProjects": {
       "keys": ""
     },
     "openGuiSchematicVerifier": {
-      "keys": "M,V"
+      "keys": ""
     },
     "openGuiSelectionManager": {
-      "keys": "M,S"
+      "keys": ""
     },
     "openGuiSettings": {
-      "keys": "M,C"
+      "keys": ""
     },
     "operationModeChangeModifier": {
       "keys": "LEFT_CONTROL"
@@ -158,13 +158,13 @@
       "keys": ""
     },
     "pickBlockToggle": {
-      "keys": "M,BUTTON_3"
+      "keys": ""
     },
     "renderInfoOverlay": {
-      "keys": "I"
+      "keys": ""
     },
     "renderOverlayThroughBlocks": {
-      "keys": "RIGHT_CONTROL"
+      "keys": ""
     },
     "rerenderSchematic": {
       "keys": "F3,M"
@@ -173,7 +173,7 @@
       "keys": ""
     },
     "saveAreaAsSchematicToFile": {
-      "keys": "LEFT_CONTROL,LEFT_ALT,S"
+      "keys": ""
     },
     "schematicEditBreakPlaceAll": {
       "keys": ""
@@ -230,7 +230,7 @@
       "keys": ""
     },
     "toggleAllRendering": {
-      "keys": "M,R"
+      "keys": ""
     },
     "toggleAreaSelectionBoxesRendering": {
       "keys": ""
@@ -257,7 +257,7 @@
       "keys": ""
     },
     "toggleSchematicRendering": {
-      "keys": "M,G"
+      "keys": ""
     },
     "toggleSignTextPaste": {
       "keys": ""
@@ -269,7 +269,7 @@
       "keys": ""
     },
     "toolEnabledToggle": {
-      "keys": "M,T"
+      "keys": ""
     },
     "toolPlaceCorner1": {
       "keys": "BUTTON_1"
@@ -319,7 +319,7 @@
     "verifierErrorHilightMaxPositions": 1000
   },
   "Visuals": {
-    "enableRendering": false,
+    "enableRendering": true,
     "enableSchematicRendering": true,
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
@@ -328,7 +328,7 @@
     "ignoreExistingFluids": false,
     "overlayReducedInnerSides": false,
     "renderAreaSelectionBoxSides": true,
-    "renderBlocksAsTranslucent": false,
+    "renderBlocksAsTranslucent": true,
     "renderCollidingSchematicBlocks": false,
     "renderErrorMarkerConnections": false,
     "renderErrorMarkerSides": true,
@@ -344,9 +344,9 @@
     "schematicOverlayTypeExtra": true,
     "schematicOverlayTypeMissing": true,
     "schematicOverlayTypeWrongBlock": true,
-    "schematicOverlayTypeWrongState": true,
+    "schematicOverlayTypeWrongState": false,
     "schematicVerifierUseBlockModels": false,
-    "ghostBlockAlpha": 0.5,
+    "ghostBlockAlpha": 0.7,
     "placementBoxSideAlpha": 0.2,
     "schematicOverlayOutlineWidth": 1.0,
     "schematicOverlayOutlineWidthThrough": 3.0
