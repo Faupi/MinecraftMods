@@ -62,5 +62,5 @@
 	#VANILLA: Penalty doubles every time an item is worked.
 	#DISABLED: Penalty stays at 0 and does not increase.
 	#Allowed Values: DISABLED, VANILLA, FIXED
-	prior_work_penalty = "FIXED"
+	prior_work_penalty = "DISABLED"
 
