@@ -19,25 +19,25 @@
 [costs]
 	#Multiplier for each level of a common enchantment being applied.
 	#Range: > -2147483648
-	common_enchantment_multiplier = 1
+	common_enchantment_multiplier = 2
 	#The additional cost in levels for combining an item with another item of the same kind when the first item is not fully repaired.
 	#Range: > -2147483648
-	repair_with_other_item_cost = 2
+	repair_with_other_item_cost = 4
 	#Multiplier for each level of a very rare enchantment being applied.
 	#Range: > 1
-	very_rare_enchantment_multiplier = 8
+	very_rare_enchantment_multiplier = 16
 	#Multiplier for each level of a uncommon enchantment being applied.
 	#Range: > 1
-	uncommon_enchantment_multiplier = 2
+	uncommon_enchantment_multiplier = 4
 	#The additional cost in levels for each valid repair material an item is repaired with in an anvil.
 	#Range: > -2147483648
-	repair_with_material_unit_cost = 1
+	repair_with_material_unit_cost = 2
 	#Renaming any item in an anvil no longer costs any enchantment levels at all. Can be restricted to only name tags.
 	#Allowed Values: OFF, ALL_ITEMS, NAME_TAGS_ONLY
 	free_renames = "ALL_ITEMS"
 	#Multiplier for each level of a rare enchantment being applied.
 	#Range: > 1
-	rare_enchantment_multiplier = 4
+	rare_enchantment_multiplier = 8
 	#Costs for applying enchantments from enchanted books are halved.
 	halved_book_costs = true
 	#Max cost of enchantment level allowed to be spent in an anvil. Every operation exceeding the limit will show as 'Too Expensive!' and will be disallowed.
