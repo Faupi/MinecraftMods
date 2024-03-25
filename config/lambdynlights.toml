@@ -108,10 +108,22 @@ mode = "fancy"
 				cod = true
 				snow_golem = true
 				spider = true
+				ender_dragon = true
+				dragon_fireball = true
+				area_effect_cloud = true
+				ender_pearl = true
+				endermite = true
+				shulker = true
+				shulker_bullet = true
+				wither_skeleton = true
 
 			[light_sources.settings.entities.fallingtrees]
 				tree = true
 
 			[light_sources.settings.entities.mcwfurnitures]
 				chair_entity = true
+
+			[light_sources.settings.entities.projectiles]
+				gold_arrow = true
+				iron_arrow = true
 
